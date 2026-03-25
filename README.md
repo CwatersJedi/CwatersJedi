@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b> AI Security Tools as Risk Signals </b>
-  - [Ai-security-risk-signals-github-project](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Portfolio of strategic risk analysis](https://github.com/CwatersJedi/ai-security-risk-signals)
 
 <h2>📺 Certifications </h2>
 
