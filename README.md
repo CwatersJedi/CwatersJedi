@@ -11,7 +11,6 @@
   
   
 <h2>📺 Approach </h2>
-## Approach
 
 My work focuses on:
 - Identifying weak signals across technology and behavior
