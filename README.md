@@ -1,5 +1,7 @@
 <h1>Hi, I'm Charles! <br/> Intelligence-driven risk analyst specializing in emerging threats, adversarial behavior, and AI-enabled misuse. Focused on translating weak signals into structured, decision-ready risk insights. </h1>
 
+Focused on applying intelligence methodologies to modern risk environments, including AI misuse, fraud, and adversarial behavior at scale.
+
 <h2>👨‍💻 Projects:</h2>
 
 - <b> Strategic analysis of AI security tools as signals of adversary adaptation, workflow risk, and emerging misuse patterns. Includes intelligence-style briefs, risk frameworks, and signal tracking. </b>
