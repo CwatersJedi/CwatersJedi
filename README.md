@@ -7,7 +7,7 @@
 
 <h2>📺 Certifications </h2>
 
-- [ASIS Member (C#)](https://www.credly.com/badges/0c89c537-adaf-4640-9490-ce6b9fc0534a/public_url)
+- [ASIS Member](https://www.credly.com/badges/0c89c537-adaf-4640-9490-ce6b9fc0534a/public_url)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
   
 <h2>📺 Popular YouTube Videos</h2>
