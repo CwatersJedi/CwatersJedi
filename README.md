@@ -6,6 +6,12 @@
 
 - <b> Strategic analysis of AI security capabilities as signals of adversary adaptation, workflow risk, and emerging misuse patterns. Produces intelligence-style assessments with explicit assumptions, confidence levels, and actionable recommendations. </b>
   - [Portfolio of strategic risk analysis](https://github.com/CwatersJedi/ai-security-risk-signals)
+ 
+  - ## Sample Outputs
+
+- AI-Enabled Fraud & Scam Acceleration (Risk Brief)
+- AI Threat Hunting Copilots and Analyst Workflow Risk
+- Security Automation and Over-Reliance Risk
 
 <h2>📺 Certifications </h2>
 
