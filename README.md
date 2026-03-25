@@ -7,7 +7,7 @@
 
 <h2>📺 Certifications </h2>
 
-- [ASIS Member (C#)](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0c89c537-adaf-4640-9490-ce6b9fc0534a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)
+- [ASIS Member](https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
   
 <h2>📺 Popular YouTube Videos</h2>
