@@ -11,7 +11,13 @@
   
   
 <h2>📺 Approach </h2>
+## Approach
 
+My work focuses on:
+- Identifying weak signals across technology and behavior
+- Anticipating adversary adaptation
+- Assessing second-order and systemic risk
+- Translating ambiguity into structured, actionable insights
 
   
 
