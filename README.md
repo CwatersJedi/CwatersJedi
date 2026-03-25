@@ -1,8 +1,8 @@
-<h1>Hi, I'm Charles! <br/> Intelligence-driven risk analyst focused on emerging threats, adversarial behavior, and AI misuse. </h1>
+<h1>Hi, I'm Charles! <br/> Intelligence-driven risk analyst specializing in emerging threats, adversarial behavior, and AI-enabled misuse. Focused on translating weak signals into structured, decision-ready risk insights. </h1>
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b> AI Security Tools as Risk Signals </b>
+- <b> Strategic analysis of AI security tools as signals of adversary adaptation, workflow risk, and emerging misuse patterns. Includes intelligence-style briefs, risk frameworks, and signal tracking. </b>
   - [Portfolio of strategic risk analysis](https://github.com/CwatersJedi/ai-security-risk-signals)
 
 <h2>📺 Certifications </h2>
@@ -10,10 +10,10 @@
 - [ASIS Member](https://www.credly.com/badges/0c89c537-adaf-4640-9490-ce6b9fc0534a/public_url)
   
   
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Approach </h2>
 
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+
+  
 
 <h2> 🤳 Connect with me:</h2>
 
