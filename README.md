@@ -1,4 +1,4 @@
-<h1>Hi, I'm Charles! <br/> Intelligence-driven risk analyst specializing in emerging threats, adversarial behavior, and AI-enabled misuse. Focused on translating weak signals into structured, decision-ready risk insights. </h1>
+<h1>Hi, I'm Charles! <br/>  </h1>
 
 <h2>Focused on applying intelligence methodologies to modern risk environments, including AI misuse, fraud, and adversarial behavior at scale.</h2>
 
